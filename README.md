@@ -2,7 +2,9 @@
 常用的计算机单词
 ## 常用单词
 variable 变量
+
 ignore   忽略
+
 Terminal 终端
 enforce  执行
 internal 内部
